@@ -16,6 +16,7 @@ entering a room with hostile mobs
 
 ## Phase 3: running away
 - the boss found you and is coming after you
+- getting stuck and trying their hardest to escape
 Escaping the boss
 
 ## Phase 4: return to boss after finding a loot chest
